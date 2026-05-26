@@ -1,17 +1,1 @@
-# Dev_test
-this is my first repo
-he  i am devsecops enginner 
-sd
-s
-d sdsdsdsds ds,d sd s ds dfdsf dfdfdsf dsfdsfdsfds fg
-sds
-d
-
-hi my first push 
-
-sd
-s
-d
-s
-d
-s
+local push 1 
